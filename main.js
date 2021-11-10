@@ -11,5 +11,7 @@ add.addEventListener("click", function(){
 
 remove.addEventListener("click", function(){
     integer -= 1;
-    int.innerHTML
+    int.innerHTML = integer;
 })
+
+ 
