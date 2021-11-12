@@ -19,4 +19,6 @@ integer = 0
 int.innerHTML = contador = 0;
 })
 
+
+
  
